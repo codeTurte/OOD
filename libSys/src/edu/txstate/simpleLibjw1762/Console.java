@@ -54,7 +54,7 @@ public abstract class Console
 			e.printStackTrace();
 		}
 		
-		libSys.login(userName, password);
+		current = libSys.login(userName, password);
 		//System.out.println(current);
 		//System.out.println(current.getUserVer());
 		//showAppropriate Menu
