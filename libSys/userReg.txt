@@ -1,0 +1,7 @@
+Name	ID	UserType	Password
+Jordan Williamson	1	Student	user
+Chelsie Woodall	2	Student	user
+William Peterman	3	Faculty	fac
+Wesley Brownson	4	Faculty	fac
+Chris Horyza	5	Staff	admin
+Becca Fikah	6	Staff	admin

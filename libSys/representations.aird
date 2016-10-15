@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_fZKZoJDsEea_w95ZATiz-w" selectedViews="_gdI_IJDsEea_w95ZATiz-w _geS1sJDsEea_w95ZATiz-w _geiGQJDsEea_w95ZATiz-w _gfRtIJDsEea_w95ZATiz-w _gfnEUJDsEea_w95ZATiz-w" version="11.0.0.201604141600">
+  <ownedViews xmi:type="viewpoint:DView" xmi:id="_gdI_IJDsEea_w95ZATiz-w">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Reused']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DView" xmi:id="_geS1sJDsEea_w95ZATiz-w">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DView" xmi:id="_geiGQJDsEea_w95ZATiz-w">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']"/>
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_qmIBUJDsEea_w95ZATiz-w" name="NewModel Class Diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_qmIBUZDsEea_w95ZATiz-w" source="DANNOTATION_CUSTOMIZATION_KEY">
+        <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_qmIoYJDsEea_w95ZATiz-w"/>
+      </ownedAnnotationEntries>
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_qoL20JDsEea_w95ZATiz-w" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_qoMd4JDsEea_w95ZATiz-w" type="Sirius" element="_qmIBUJDsEea_w95ZATiz-w" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_u6EiwJDsEea_w95ZATiz-w" type="2003" element="_u4kG4JDsEea_w95ZATiz-w">
+            <children xmi:type="notation:Node" xmi:id="_u6HmEJDsEea_w95ZATiz-w" type="5007"/>
+            <children xmi:type="notation:Node" xmi:id="_u6OTwJDsEea_w95ZATiz-w" type="7004">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_u6OTwZDsEea_w95ZATiz-w"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_u6OTwpDsEea_w95ZATiz-w"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_u6EiwZDsEea_w95ZATiz-w" fontName="Segoe UI" bold="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u6FJ0JDsEea_w95ZATiz-w" x="805" y="197" width="120" height="100"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_qoMd4ZDsEea_w95ZATiz-w"/>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_u4kG4JDsEea_w95ZATiz-w" name="Class1" tooltipText="NewModel::Class1" width="12" height="10">
+        <target xmi:type="uml:Class" href="my.uml#_u4GM0JDsEea_w95ZATiz-w"/>
+        <semanticElements xmi:type="uml:Class" href="my.uml#_u4GM0JDsEea_w95ZATiz-w"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_u4-9oJDsEea_w95ZATiz-w" labelSize="9" borderSize="1" borderSizeComputationExpression="1" borderColor="39,76,114" backgroundStyle="Liquid" foregroundColor="232,239,247">
+          <labelFormat>bold</labelFormat>
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_Class']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_Class']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_qmIoY5DsEea_w95ZATiz-w"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer"/>
+      <target xmi:type="uml:Model" href="my.uml#_gDX0QJDsEea_w95ZATiz-w"/>
+    </ownedRepresentations>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DView" xmi:id="_gfRtIJDsEea_w95ZATiz-w">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Review']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DView" xmi:id="_gfnEUJDsEea_w95ZATiz-w">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Extend']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>

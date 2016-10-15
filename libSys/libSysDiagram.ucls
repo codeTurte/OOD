@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="edu.txstate.simpleLibjw1762.libUser" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/libUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="188" x="274" y="850"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="edu.txstate.simpleLibjw1762.Document" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Document.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="131" x="103" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.txstate.simpleLibjw1762.Staff" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Staff.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="148" x="274" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.txstate.simpleLibjw1762.Search" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Search.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="127" x="182" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.txstate.simpleLibjw1762.LibrarySys" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/LibrarySys.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="223" x="265" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.txstate.simpleLibjw1762.Journal" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Journal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="252" x="591" y="1272"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.txstate.simpleLibjw1762.Student" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Student.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="161" x="661" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.txstate.simpleLibjw1762.Console" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Console.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="127" x="629" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.txstate.simpleLibjw1762.Video" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Video.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="214" x="323" y="1272"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="edu.txstate.simpleLibjw1762.Faculty" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Faculty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="159" x="462" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="edu.txstate.simpleLibjw1762.Book" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Book.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="241" x="42" y="1272"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="edu.txstate.simpleLibjw1762.Conference" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Conference.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="274" x="590" y="1483"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="edu.txstate.simpleLibjw1762.Driver" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Driver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="132" x="349" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="edu.txstate.simpleLibjw1762.Loan" project="libSys" 
+    file="/libSys/src/edu/txstate/simpleLibjw1762/Loan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="141" x="103" y="675"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="17">    
+    <bendpoint x="295" y="675"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="18" name="curUser"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <bendpoint x="72" y="675"/>    
+    <bendpoint x="72" y="850"/>    
+    <bendpoint x="72" y="1079"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="21" name="videos"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="24">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="25" name="libSys"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <bendpoint x="852" y="675"/>    
+    <bendpoint x="852" y="850"/>    
+    <bendpoint x="852" y="1079"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="28" name="journals"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="31" name="checkedOut"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="51" y="675"/>    
+    <bendpoint x="51" y="850"/>    
+    <bendpoint x="51" y="1079"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="34" name="books"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="37">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="38" name="user"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="41">    
+    <bendpoint x="112" y="850"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="42" name="document"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="45">    
+    <bendpoint x="873" y="675"/>    
+    <bendpoint x="873" y="850"/>    
+    <bendpoint x="873" y="1079"/>    
+    <bendpoint x="873" y="1272"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="46" name="conferences"/>      
+      <multiplicity id="47" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="49" name="lib"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <bendpoint x="274" y="675"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="52" name="users"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="55">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="56" name="loans"/>      
+      <multiplicity id="57" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

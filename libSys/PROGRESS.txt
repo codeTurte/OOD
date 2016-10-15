@@ -1,0 +1,20 @@
+Console -- Partially Implemented. Lots of problems. Lots.
+Driver -- Nearly done I should think.
+LibrarySys -- Dependant upon Search and UI
+
+Search -- NEEDS FUNCTIONAL SEARCH
+
+
+libUser -- NEEDS (console)
+Faculty -- NEEDS (console)
+Staff -- NEEDS (console)
+Student -- NEEDS (console)
+
+Loan -- COMPLETE?
+
+
+Document -- COMPLETE
+Conference -- COMPLETE
+Book -- COMPLETE
+Video -- COMPLETE
+Journal -- COMPLETE	
